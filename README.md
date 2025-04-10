@@ -3,7 +3,10 @@
 </div>
 
 <div align=center>
-  
+
+  <h3>Tech</h3>
+  <br/>
+  <br/>
   
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic&logoColor=white">
