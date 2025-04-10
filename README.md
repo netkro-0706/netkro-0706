@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Typescript-007ACC.svg?logo=typescript&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515"/>
   <br/>
@@ -35,14 +36,17 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=plastic">
   <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic">
   <img src="https://img.shields.io/badge/styled components-DB7093?style=plastic&logo=styled-components&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=plastic&logo=Tailwind%20CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Material%20UI-0081CB?style=plastic&logo=Material-UI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vanilla-extract-66FFFF?style=plastic&labelColor=FFC0CB&color=66FFFF&logoColor=white"/>
   <br/>
   <br/>
 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"/>
+
   
   
 </div>
